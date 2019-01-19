@@ -51,6 +51,16 @@ $ npm start
 $ npm run build
 ```
 
+## Testing
+
+```
+$ npm run test
+
+$ npm run test:watch (verbose output)
+
+
+```
+
 ## Code Format
 
 ```
